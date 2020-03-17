@@ -6,7 +6,7 @@ public class Book
     
     public Book(int iid, int sscore)
     {
-        this.id = iid + 1;
+        this.id = iid;
         this.score = sscore;
     }
 }
